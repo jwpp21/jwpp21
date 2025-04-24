@@ -1,8 +1,9 @@
 <h1 align="center">🚀 Welcome to My GitHub!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=F7B93E&center=true&vCenter=true&width=435&lines=while+(alive)+%7B;eat();;sleep();;code();%7D">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=while+(alive)+%7B;    eat();;    sleep();;    code();%7D">
 </p>
+
 
 
 ---
