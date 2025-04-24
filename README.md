@@ -26,13 +26,5 @@
 ---
 
 ### 🔥 About Me  
-💻 **언어:** `C++`, `Python`, `C#`  
-🎮 **관심 분야:** `게임 개발`, `알고리즘`, `네트워크 프로그래밍`  
-📚 **기록:** 개발 & 공부 내용을 [블로그]()에 정리 중!  
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jwpp21&theme=tokyonight" alt="GitHub Streak">
-</p>
-
+💻 **언어:** `C++`  
+🎮 **관심 분야:** `게임 개발`, `알고리즘`
