@@ -1,8 +1,7 @@
 <h1 align="center">🚀 Welcome to My GitHub!</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=while+(alive)+%7B;    eat();;    sleep();;    code();%7D">
-</p>
+<img src="https://github.com/jwpp21/jwpp21/blob/main/assets/while_alive_typing.gif">
+
 
 
 
