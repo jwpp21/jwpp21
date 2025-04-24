@@ -8,5 +8,5 @@
 - 다른 분들과 협업해서 게임 하나 만들어보기
 
 ## 🏆 백준 티어
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=boj아이디)](https://solved.ac/jwpp21)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jwpp21)](https://solved.ac/jwpp21)
 
