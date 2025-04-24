@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Welcome to My GitHub!</h1>
 
-<img src="https://github.com/jwpp21/jwpp21/blob/main/assets/while_alive_typing.gif">
+<img src="https://github.com/jwpp21/C:\Users\wjddl\Downloads/while_alive_typing.gif">
 
 
 
