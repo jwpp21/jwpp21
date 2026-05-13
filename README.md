@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,6&height=220&section=header&text=One%20Pixel%20at%20a%20Time&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Computer%20Graphics%20%E2%80%A2%20Always%20Learning&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,6&height=220&section=header&text=늙고%20P병든%20프로그래래머%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Computer%20Graphics%20%E2%80%A2%20Always%20Learning&descAlignY=58&descSize=15" width="100%"/>
 
 <br/>
 
@@ -10,26 +10,15 @@
 
 <br/><br/>
 
-```cpp
-// work in progress
-struct Student {
-    std::string name      = "YOUR_NAME";
-    std::string status    = "learning";
-    std::string interest  = "computer graphics";
-};
-```
-
 </div>
 
 <br/>
 
 ## <samp>🌱 &nbsp;ABOUT</samp>
 
-> 화면의 한 픽셀이 어떻게 그려지는지 궁금해서 시작했습니다.
-
 아직 배우는 중인 학생입니다.<br/>
 지금은 **CS 기초** 와 **컴퓨터 그래픽스** 를 함께 공부하고 있고,<br/>
-잘하는 것보단 **꾸준히** 하는 걸 목표로 하루를 보냅니다.
+잘하는 것보단 **꾸준히** 하는 게 목표
 
 <br/>
 
