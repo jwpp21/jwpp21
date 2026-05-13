@@ -1,20 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,6&height=220&section=header&text=Graphics%20Programmer&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Real-Time%20Rendering%20%E2%80%A2%20Game%20Engine%20%E2%80%A2%20Shaders&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,6&height=220&section=header&text=One%20Pixel%20at%20a%20Time&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Computer%20Graphics%20%E2%80%A2%20Always%20Learning&descAlignY=58&descSize=15" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/UU_WW">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=720&lines=%23pragma+once+%2F%2F+Hello%2C+World!;while(alive)+%7B+study();+code();+render();+%7D;Building+pixels+one+shader+at+a+time;C%2B%2B+%E2%80%A2+HLSL+%E2%80%A2+DirectX+%E2%80%A2+Unreal+Engine" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=720&lines=%2F%2F+still+compiling...;%2F%2F+studying+CS+%26+computer+graphics;%2F%2F+one+line%2C+one+pixel+at+a+time" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 ```cpp
-struct Developer {
-    std::string name = "YOUR_NAME";
-    std::string role = "Graphics Programmer";
-    // TODO: fill in
+// work in progress
+struct Student {
+    std::string name      = "YOUR_NAME";
+    std::string status    = "learning";
+    std::string interest  = "computer graphics";
 };
 ```
 
@@ -22,13 +23,13 @@ struct Developer {
 
 <br/>
 
-## <samp>🎨 &nbsp;ABOUT</samp>
+## <samp>🌱 &nbsp;ABOUT</samp>
 
-> 화면 위의 한 픽셀이 어떻게 그려지는지 궁금해서 시작했습니다.
+> 화면의 한 픽셀이 어떻게 그려지는지 궁금해서 시작했습니다.
 
-게임 그래픽스와 실시간 렌더링에 관심이 많은 학생 개발자입니다.<br/>
-**C++** 와 **셰이더** 를 좋아하고, 엔진 내부 동작을 파헤치는 일에 시간을 많이 씁니다.<br/>
-기본기 위에 차곡차곡 쌓는 것을 중요하게 생각합니다.
+아직 배우는 중인 학생입니다.<br/>
+지금은 **CS 기초** 와 **컴퓨터 그래픽스** 를 함께 공부하고 있고,<br/>
+잘하는 것보단 **꾸준히** 하는 걸 목표로 하루를 보냅니다.
 
 <br/>
 
