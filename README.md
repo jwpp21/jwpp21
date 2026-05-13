@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,6&height=220&section=header&text=늙고%20P병든%20프로그래래머%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Computer%20Graphics%20%E2%80%A2%20Always%20Learning&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,6&height=220&section=header&text=One%20Pixel%20at%20a%20Time&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Computer%20Graphics%20%E2%80%A2%20Always%20Learning&descAlignY=58&descSize=15" width="100%"/>
 
 <br/>
 
@@ -10,15 +10,43 @@
 
 <br/><br/>
 
+```cpp
+// work in progress
+struct Student {
+    std::string name      = "YOUR_NAME";
+    std::string status    = "learning";
+    std::string interest  = "computer graphics";
+};
+```
+
 </div>
 
 <br/>
 
 ## <samp>🌱 &nbsp;ABOUT</samp>
 
-아직 배우는 중인 학생입니다.<br/>
-지금은 **CS 기초** 와 **컴퓨터 그래픽스** 를 함께 공부하고 있고,<br/>
-잘하는 것보단 **꾸준히** 하는 게 목표
+<div align="center">
+
+<!-- ① 큰 헤드라인 · Black Han Sans (굵은 한글 디스플레이체) -->
+<img src="https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=44&duration=99999&pause=1000&color=00D4FF&center=true&vCenter=true&width=720&height=70&lines=안녕하세요" alt="headline" />
+
+<br/>
+
+<!-- ② 한 줄 소개 · Gowun Dodum (부드럽고 모던한 한글) -->
+<img src="https://readme-typing-svg.demolab.com?font=Gowun+Dodum&weight=500&size=22&duration=99999&pause=1000&color=E5E5E5&center=true&vCenter=true&width=720&height=40&lines=여기에+한+줄+소개를+적어주세요" alt="subtitle" />
+
+<br/>
+
+<!-- ③ 손글씨 한 줄 · Nanum Pen Script (펜글씨 느낌, 인용구용) -->
+<img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=28&duration=99999&pause=1000&color=FF6B35&center=true&vCenter=true&width=720&height=50&lines=좌우명이나+짧은+문구를+적어보세요" alt="motto" />
+
+</div>
+
+<br/>
+
+<!-- 본문은 마크다운으로 자유롭게 작성 -->
+여기에 본문을 한글로 작성해주세요.<br/>
+**굵게**, *기울임*, `코드`, [링크](#) 모두 사용 가능합니다.
 
 <br/>
 
