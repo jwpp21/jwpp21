@@ -1,112 +1,120 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,6&height=220&section=header&text=One%20Pixel%20at%20a%20Time&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Computer%20Graphics%20%E2%80%A2%20Always%20Learning&descAlignY=58&descSize=15" width="100%"/>
+# 👋 Hi, I'm UU_WW
 
-<br/>
+### 🎮 Aspiring Game Graphics Engineer  
+**Building rendering pipelines from C++ up — Unity · Unreal · DirectX 11**
 
-<a href="https://github.com/UU_WW">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=720&lines=%2F%2F+still+compiling...;%2F%2F+studying+CS+%26+computer+graphics;%2F%2F+one+line%2C+one+pixel+at+a+time" alt="Typing SVG" />
-</a>
+<br>
 
-<br/><br/>
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+## 🧭 About Me
 
 ```cpp
-// work in progress
-struct Student {
-    std::string name      = "YOUR_NAME";
-    std::string status    = "learning";
-    std::string interest  = "computer graphics";
+struct Developer {
+    std::string name        = "UU_WW";
+    std::string role        = "CS Undergraduate → Graphics Programmer";
+    std::string year        = "3rd year (Mar 2026~)";
+    std::string focus       = "Real-time Rendering · Engine Internals";
+    std::vector<std::string> stack = { "C++", "C#", "HLSL", "GLSL" };
+    std::string motto       = "Make the engine, don't just use it.";
 };
 ```
 
-</div>
+- 🔭 **Currently building:** DirectX 11 + ImGui rendering sandbox (Win32, VS2022)
+- 📚 **Currently studying:** Unreal rendering pipeline, OpenGL fundamentals, 홍정모 graphics 강의
+- 🎯 **Targeting:** Graphics / Rendering Engineer role at a game studio
+- ⚡ **Beyond code:** Texas Hold'em (GTO/exploit) · 주식 펀더멘털 분석
 
-<br/>
+---
 
-## <samp>🌱 &nbsp;ABOUT</samp>
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<!-- ① 큰 헤드라인 · Black Han Sans (굵은 한글 디스플레이체) -->
-<img src="https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=44&duration=99999&pause=1000&color=00D4FF&center=true&vCenter=true&width=720&height=70&lines=안녕하세요" alt="headline" />
-
-<br/>
-
-<!-- ② 한 줄 소개 · Gowun Dodum (부드럽고 모던한 한글) -->
-<img src="https://readme-typing-svg.demolab.com?font=Gowun+Dodum&weight=500&size=22&duration=99999&pause=1000&color=E5E5E5&center=true&vCenter=true&width=720&height=40&lines=여기에+한+줄+소개를+적어주세요" alt="subtitle" />
-
-<br/>
-
-<!-- ③ 손글씨 한 줄 · Nanum Pen Script (펜글씨 느낌, 인용구용) -->
-<img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=28&duration=99999&pause=1000&color=FF6B35&center=true&vCenter=true&width=720&height=50&lines=좌우명이나+짧은+문구를+적어보세요" alt="motto" />
-
-</div>
-
-<br/>
-
-<!-- 본문은 마크다운으로 자유롭게 작성 -->
-여기에 본문을 한글로 작성해주세요.<br/>
-**굵게**, *기울임*, `코드`, [링크](#) 모두 사용 가능합니다.
-
-<br/>
-
-## <samp>🛠 &nbsp;TECH STACK</samp>
-
-<div align="center">
-
-###### `Languages`
+### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white)
 
-###### `Graphics & Engines`
-![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![DirectX](https://img.shields.io/badge/DirectX_11-107C10?style=for-the-badge&logo=microsoft&logoColor=white)
+### Engines & Graphics APIs
+![Unity](https://img.shields.io/badge/Unity_URP%2FHDRP-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![DirectX 11](https://img.shields.io/badge/DirectX_11-007ACC?style=for-the-badge&logo=microsoft&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![ImGui](https://img.shields.io/badge/Dear_ImGui-1E1E1E?style=for-the-badge&logo=dearimgui&logoColor=white)
 
-###### `Tools`
+### Tools & Libraries
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Dear ImGui](https://img.shields.io/badge/Dear_ImGui-1E1E1E?style=for-the-badge&logo=data:image/svg%2bxml;base64,&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Win32-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-</div>
+---
 
-<br/>
+## 🚀 Featured Projects
 
-## <samp>📈 &nbsp;CURRENT</samp>
+### 🎨 DirectX 11 Rendering Sandbox
+> A from-scratch DX11 renderer with **ImGui-driven** runtime parameter tuning.  
+> Exploring pipeline state objects, shader hot-reload, and debug visualization.
 
-> [!NOTE]
-> 요즘은 **Computer Science** 기초와 **Computer Graphics** 를 공부하고 있습니다.
+`C++` `DirectX 11` `Dear ImGui` `Win32 API`
 
-<table>
-<tr><th>분야</th><th>내용</th><th>진행률</th></tr>
-<tr><td><code>CS</code></td><td>자료구조 · 알고리즘 · OS 기초</td><td><img src="https://progress-bar.xyz/55?width=180&color=00d4ff"/></td></tr>
-<tr><td><code>CG</code></td><td>렌더링 파이프라인 · 셰이더 · 그래픽스 수학</td><td><img src="https://progress-bar.xyz/45?width=180&color=ff6b35"/></td></tr>
-</table>
+---
 
-<br/>
+### ⚔️ MMORPG Server Foundation
+> Multi-threaded game server implementing **session management**, packet serialization, and game-state synchronization.
 
-## <samp>📊 &nbsp;STATS</samp>
+`C++` `IOCP` `Networking`
 
-<div align="center">
+---
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=UU_WW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UU_WW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8" />
+### 🌐 Unreal Engine — Custom Rendering Module
+> Engine-level customization study: **C++ source 분석 + rendering pipeline 확장 실험**.  
+> Documented as a 2-week deep-dive series on Unreal's render documentation.
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=UU_WW&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" />
+`Unreal Engine` `C++` `Render Hardware Interface`
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=UU_WW&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35&area=true" />
+---
 
-</div>
-
-<br/>
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
+
+---
+
+## 📚 Learning Roadmap
+
+| Phase | Focus | Status |
+|-------|-------|--------|
+| **Foundation** | Linear Algebra · Trigonometry · C++ DSA (홍정모 Algorithm) | 🟢 In Progress |
+| **Graphics Basics** | OpenGL · Shader 기초 · Rendering Math | 🟢 In Progress |
+| **Engine Deep-Dive** | DirectX 11 직접 구현 · Unreal RHI 분석 | 🟡 Active |
+| **Capstone** | Graphics-themed 졸업작품 | ⚪ Planned |
+
+---
+
+## 🎯 Philosophy
+
+> **"엔진을 쓰는 사람이 아닌, 만드는 사람이 되자."**  
+> 추상화 뒤에 무엇이 있는지 이해할 때 비로소 최적화와 디버깅이 가능하다.
+
+---
+
+<div align="center">
+
+*Last updated: 2026*
 
 </div>
