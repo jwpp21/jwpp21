@@ -44,4 +44,5 @@ Multi-threaded game server. Session management, packet serialization, state sync
 
 ## Contact
 
-your@email.com
+wjddlgk5353@gmail.com
+
