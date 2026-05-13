@@ -10,13 +10,6 @@
 
 <br/><br/>
 
-```cpp
-struct Developer {
-    std::string name = "UU_WW";
-    std::string role = "Programmer";
-
-};
-```
 
 </div>
 
