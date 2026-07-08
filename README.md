@@ -31,8 +31,8 @@ Narrative game built with team TeamODD in Unity. Owned the dialogue / evaluation
 
 ## Stats
 
-<img src="https://github-readme-stats-tau-neon-33.vercel.app/api?username=UU_WW&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-stats-tau-neon-33.vercel.app/api/top-langs/?username=UU_WW&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="160" />
+<img src="https://github-readme-stats-tau-neon-33.vercel.app/api?username=jwpp21&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-stats-tau-neon-33.vercel.app/api/top-langs/?username=jwpp21&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="160" />
 
 ## Contact
 
