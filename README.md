@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=8B9DC3&center=true&vCenter=true&width=600&lines=C%2B%2B+%C2%B7+Parallel+computing+%C2%B7+CUDA;From+GPU+pipelines+to+GPU+computing;Measure+first%2C+then+optimize." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=8B9DC3&center=true&vCenter=true&width=600&lines=C%2B%2B+%C2%B7+Parallel+computing+%C2%B7+CUDA;Building+the+floor%2C+then+the+spike;Measure+first%2C+then+optimize." alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,27 +18,16 @@
 ## Stack
 
 **Languages** &nbsp; C++ · C# &nbsp;·&nbsp; **Learning** CUDA
-**Systems** &nbsp; Win32 · IOCP · Multi-threading
-**GPU** &nbsp; DirectX 11 · OpenGL · Unity (URP/HDRP) · Unreal Engine
-**Tools** &nbsp; Visual Studio 2022 · CMake · Dear ImGui · Git
+**Familiar with** &nbsp; Unity (URP/HDRP) · DirectX 11 basics
+**Tools** &nbsp; Visual Studio 2022 · CMake · Git
 
 ## Projects
 
-**MMORPG Server Foundation**
-Multi-threaded game server in C++. IOCP-based session management, packet serialization, state synchronization under concurrency.
-`C++` `IOCP` `Multi-threading`
-
-**DirectX 11 Rendering Sandbox**
-GPU pipeline built from scratch — no engine. ImGui-driven parameter tuning, shader hot-reload, debug visualization. Hands-on foundation for how GPUs actually execute work.
-`C++` `DirectX 11` `ImGui` `Win32`
-
-**Psychopomps** · *Team project*
-Narrative game built with a 4-person team for a university competition. Owned the dialogue / evaluation / grading system end-to-end.
+**Psychopomps** · *Team project, university competition*
+Narrative game built with team TeamODD in Unity. Owned the dialogue / evaluation / grading system end-to-end — from core logic through debugging cascade failures (UI lifecycle, infinite loop guards, scene-transition state) to final clean deliverables.
 `Unity` `C#`
 
-**Unreal Rendering Internals Study**
-Deep-dive into Unreal's rendering source and RHI layer. Source analysis + extension experiments.
-`Unreal Engine` `C++` `RHI`
+<sub>More coming — this section fills up as the roadmap progresses. 🌱</sub>
 
 ## Stats
 
