@@ -23,8 +23,8 @@
 
 ## Projects
 
-**Psychopomps** · *Team project, university competition*
-Narrative game built with team TeamODD in Unity. Owned the dialogue / evaluation / grading system end-to-end — from core logic through debugging cascade failures (UI lifecycle, infinite loop guards, scene-transition state) to final clean deliverables.
+**Psychopomps** · *Team project, university competition*  
+Narrative game built with team TeamODD in Unity. Owned the dialogue / evaluation / grading system end-to-end — from core logic through debugging cascade failures (UI lifecycle, infinite loop guards, scene-transition state) to final clean deliverables.  
 `Unity` `C#`
 
 <sub>More coming — this section fills up as the roadmap progresses. 🌱</sub>
