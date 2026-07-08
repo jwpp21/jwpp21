@@ -13,7 +13,7 @@
 
 - 🧱 Rebuilding fundamentals: modern C++ · data structures · algorithms
 - ⚡ Next up: CUDA — parallel patterns, kernel optimization, benchmarking
-- 🗺️ Following a 21-month roadmap → [`roadmap`](https://github.com/jwpp21/roadmap)
+- 🗺️ Following a 21-month roadmap → [`roadmap`]
 
 ## Stack
 
