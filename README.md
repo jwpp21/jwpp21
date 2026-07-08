@@ -17,8 +17,8 @@
 
 ## Stack
 
-**Languages** &nbsp; C++ · C# &nbsp;·&nbsp; **Learning** CUDA
-**Familiar with** &nbsp; Unity (URP/HDRP) · DirectX 11 basics
+**Languages** &nbsp; C++ · C# &nbsp;·&nbsp; **Learning** CUDA  
+**Familiar with** &nbsp; Unity (URP/HDRP) · DirectX 11 basics  
 **Tools** &nbsp; Visual Studio 2022 · CMake · Git
 
 ## Projects
